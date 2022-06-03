@@ -27,9 +27,6 @@ I am spec alias apt9, founder and trainer of the apt. My files are open access, 
   
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spec-apt&show_icons=true&theme=dark) | <a href="https://github.com/spec-apt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spec-apt&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-
 <br />
 
 ### Discord acc:
