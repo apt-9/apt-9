@@ -33,10 +33,12 @@ I am spec alias apt9, founder and trainer of the apt. My files are open access, 
 <br />
 
 ### Discord acc:
+<br />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/973515547306237962)](https://discord.com/users/973515547306237962)
 
 ### Connect with me:
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spec-apt) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/apt_spec) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/spec_apt)
 
