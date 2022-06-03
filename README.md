@@ -1,10 +1,10 @@
 ![I am GitHub Readme Generator's creator](https://i.imgur.com/e2NqMwM.jpg)
 
 
-# spec
+# apt9
 
 
-I am spec alias apt9, founder and trainer of the apt. My files are open access, the more complex ones are private, dm me on twitter or discord to get them.
+I am apt9 alias spec, founder and trainer of the apt. My files are open access, the more complex ones are private, dm me on twitter or discord to get them.
 <br />
 
 ### Skills and Experience:
