@@ -26,6 +26,8 @@ I am spec alias apt9, founder and trainer of the apt. My files are open access, 
 <br />
   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spec-apt&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="spec's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spec-apt&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <br />
 
 ### Discord acc:
