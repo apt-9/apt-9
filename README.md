@@ -25,7 +25,7 @@ I am apt9 alias spec, founder and trainer of the apt. My files are open access, 
 ### GitHub Stats:
 <br />
   
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apt-9&show_icons=true&theme=dark) </a> | <a href="https://github.com/apt-9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apt-9&layout=compact&theme=dark&hide_border=true" /></a> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apt-9&show_icons=true&theme=dark) </a> |  <a href="https://github.com/apt-9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apt-9&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
