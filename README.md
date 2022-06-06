@@ -4,7 +4,7 @@
 # apt9
 
 
-I am apt9 alias spec, founder and trainer of the apt. My files are open access, the more complex ones are private, dm me on twitter or discord to get them.
+I am apt9 alias spec, founder and trainer of the apt. My files are open access, the more complex ones are private, dm me on twitter to get them.
 <br />
 
 ### Skills and Experience:
