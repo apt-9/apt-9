@@ -1,7 +1,4 @@
-<p align="center"> 
-  ![I am GitHub Readme Generator's creator](https://i.imgur.com/ZRdnx1S.gif[/img])
-</p>
-
+![I am GitHub Readme Generator's creator](https://i.imgur.com/ZRdnx1S.gif[/img])
 
 # apt9
 
