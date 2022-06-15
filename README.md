@@ -1,4 +1,4 @@
-<center><img src="https://i.imgur.com/uj0tN3K.gif"></center>
+<center> <img src="https://i.imgur.com/uj0tN3K.gif"> </center>
 
 # apt9
 
