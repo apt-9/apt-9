@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/ZRdnx1S.gifv)
+[img]https://i.imgur.com/ZRdnx1S.gif[/img]
 
 
 # apt9
