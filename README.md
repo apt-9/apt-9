@@ -1,4 +1,6 @@
-| ------------- | ------------- | <img align="center" src="https://i.imgur.com/uj0tN3K.gif" />
+<p align="center"> 
+  <img src="https://i.imgur.com/uj0tN3K.gif" />
+</p>
 
 # apt9
 
