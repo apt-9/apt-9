@@ -1,4 +1,4 @@
-------------- <img align="center" src="https://i.imgur.com/uj0tN3K.gif" />
+| ------------- | ------------- | <img align="center" src="https://i.imgur.com/uj0tN3K.gif" />
 
 # apt9
 
