@@ -27,7 +27,7 @@ I am apt9 alias spec, founder and trainer of the apt. My files are open access, 
 ### GitHub Stats:
 <br />
   
-| ![apt-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=apt-9&show_icons=true&theme=merko) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apt-9&theme=merko)](https://github.com/apt-9/github-readme-stats) |
+| ![apt-9's GitHub stats](https://github-readme-stats.vercel.app/api?username=apt-9&show_icons=true&theme=merko) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apt-9&theme=merko)](https://github.com/apt-9/set-up-read-me/tree/main/themes) |
 | ------------- | ------------- |
 
 <br />
