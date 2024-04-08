@@ -36,6 +36,7 @@ I am apt9 alias spec, founder and trainer of the apt. My files are open access, 
 <br />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/215632498997067776)](https://discord.com/users/215632498997067776)
+[![Discord Presence](https://lanyard.cnrad.dev/api/177793598199169024)](https://discord.com/users/177793598199169024)
 
 ### Connect with me:
 <br />
